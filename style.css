@@ -1,0 +1,10 @@
+#display {
+  position: absolute;
+  inset: 0;
+}
+
+.input {
+  position: absolute;
+  left: 0;
+  top: 0;
+}
